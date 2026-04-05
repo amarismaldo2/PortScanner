@@ -16,3 +16,12 @@ A lightweight TCP port scanner written in C for Windows.
 4. Open ports will be displayed as `[OPEN] Port X`
 
 ## Example
+Enter target IP: 127.0.0.1
+Enter start port: 1
+Enter end port: 1000
+
+## Disclaimer
+For educational purposes only. Only scan systems you own or have permission to scan.
+
+---
+Built by Amaris Maldonado © 2026
